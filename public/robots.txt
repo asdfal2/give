@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://give-gray.vercel.app/sitemap.xml
